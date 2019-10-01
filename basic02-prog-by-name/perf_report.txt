@@ -1,0 +1,17 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 4  of event 'xdp:xdp_exception'
+# Event count (approx.): 4
+#
+# Overhead  Trace output                       
+# ........  ...................................
+#
+   100.00%  prog_id=51 action=ABORTED ifindex=5
+
+
+#
+# (Cannot load tips.txt file, please install perf!)
+#
